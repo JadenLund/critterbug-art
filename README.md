@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # READ ME
 
 ## To-Do Lists
@@ -22,3 +23,9 @@
 ### Contact
 - [ ] Added all socials (instagram, deviantart, art station)
 - [ ] Add email contact form (emailjs)
+=======
+# myportfolio
+# myportfolio
+# myportfolio
+# critterbug-art
+>>>>>>> 5ba4c1f (Added README to-do list and skeleton of folders for the js folders)
