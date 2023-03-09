@@ -1,0 +1,385 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.5.0
+2 info using node@v19.7.0
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/jaden/portfoliomvp/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:/home/jaden/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 8ms
+17 timing npm:load:configload Completed in 8ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 1ms
+20 verbose title npm i @fortawesome/react-fontawesome
+21 verbose argv "i" "@fortawesome/react-fontawesome"
+22 timing npm:load:setTitle Completed in 0ms
+23 timing config:load:flatten Completed in 1ms
+24 timing npm:load:display Completed in 3ms
+25 verbose logfile logs-max:10 dir:/home/jaden/.npm/_logs/2023-03-08T00_47_59_859Z-
+26 verbose logfile /home/jaden/.npm/_logs/2023-03-08T00_47_59_859Z-debug-0.log
+27 timing npm:load:logFile Completed in 3ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 17ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 62ms
+35 timing idealTree:userRequests Completed in 1ms
+36 silly idealTree buildDeps
+37 silly fetch manifest @fortawesome/react-fontawesome@*
+38 timing arborist:ctor Completed in 0ms
+39 http fetch GET 200 https://registry.npmjs.org/@fortawesome%2freact-fontawesome 209ms (cache miss)
+40 silly fetch manifest @fortawesome/fontawesome-svg-core@~1 || ~6
+41 http fetch GET 200 https://registry.npmjs.org/@fortawesome%2ffontawesome-svg-core 79ms (cache miss)
+42 silly fetch manifest react@^18.2.0
+43 http fetch GET 200 https://registry.npmjs.org/react 47ms (cache revalidated)
+44 silly placeDep ROOT @fortawesome/react-fontawesome@0.2.0 OK for: portfoliomvp@0.0.0 want: *
+45 silly placeDep ROOT @fortawesome/fontawesome-svg-core@6.3.0 OK for: @fortawesome/react-fontawesome@0.2.0 want: ~1 || ~6
+46 silly fetch manifest prop-types@^15.8.1
+47 silly fetch manifest @fortawesome/fontawesome-common-types@6.3.0
+48 http fetch GET 200 https://registry.npmjs.org/prop-types 88ms (cache revalidated)
+49 http fetch GET 200 https://registry.npmjs.org/@fortawesome%2ffontawesome-common-types 684ms (cache miss)
+50 timing idealTree:#root Completed in 1035ms
+51 silly placeDep ROOT @fortawesome/fontawesome-common-types@6.3.0 OK for: @fortawesome/fontawesome-svg-core@6.3.0 want: 6.3.0
+52 timing idealTree:node_modules/@fortawesome/fontawesome-svg-core Completed in 2ms
+53 timing idealTree:node_modules/@fortawesome/fontawesome-common-types Completed in 0ms
+54 silly placeDep ROOT prop-types@15.8.1 OK for: @fortawesome/react-fontawesome@0.2.0 want: ^15.8.1
+55 silly fetch manifest object-assign@^4.1.1
+56 silly fetch manifest react-is@^16.13.1
+57 http fetch GET 200 https://registry.npmjs.org/react-is 44ms (cache revalidated)
+58 http fetch GET 200 https://registry.npmjs.org/object-assign 64ms (cache revalidated)
+59 timing idealTree:node_modules/@fortawesome/react-fontawesome Completed in 65ms
+60 silly placeDep ROOT object-assign@4.1.1 OK for: prop-types@15.8.1 want: ^4.1.1
+61 silly placeDep ROOT react-is@16.13.1 OK for: prop-types@15.8.1 want: ^16.13.1
+62 timing idealTree:node_modules/prop-types Completed in 2ms
+63 timing idealTree:node_modules/object-assign Completed in 0ms
+64 timing idealTree:node_modules/react-is Completed in 0ms
+65 timing idealTree:buildDeps Completed in 1105ms
+66 timing idealTree:fixDepFlags Completed in 1ms
+67 timing idealTree Completed in 1172ms
+68 timing reify:loadTrees Completed in 1174ms
+69 timing reify:diffTrees Completed in 2ms
+70 silly reify moves {}
+71 timing reify:retireShallow Completed in 0ms
+72 timing reify:createSparse Completed in 4ms
+73 timing reify:loadBundles Completed in 0ms
+74 silly audit bulk request {
+74 silly audit   '@ampproject/remapping': [ '2.2.0' ],
+74 silly audit   '@babel/code-frame': [ '7.18.6' ],
+74 silly audit   '@babel/compat-data': [ '7.21.0' ],
+74 silly audit   '@babel/core': [ '7.21.0' ],
+74 silly audit   '@babel/generator': [ '7.21.1' ],
+74 silly audit   '@jridgewell/gen-mapping': [ '0.3.2', '0.1.1' ],
+74 silly audit   '@babel/helper-compilation-targets': [ '7.20.7' ],
+74 silly audit   '@babel/helper-environment-visitor': [ '7.18.9' ],
+74 silly audit   '@babel/helper-function-name': [ '7.21.0' ],
+74 silly audit   '@babel/helper-hoist-variables': [ '7.18.6' ],
+74 silly audit   '@babel/helper-module-imports': [ '7.18.6' ],
+74 silly audit   '@babel/helper-module-transforms': [ '7.21.2' ],
+74 silly audit   '@babel/helper-plugin-utils': [ '7.20.2' ],
+74 silly audit   '@babel/helper-simple-access': [ '7.20.2' ],
+74 silly audit   '@babel/helper-split-export-declaration': [ '7.18.6' ],
+74 silly audit   '@babel/helper-string-parser': [ '7.19.4' ],
+74 silly audit   '@babel/helper-validator-identifier': [ '7.19.1' ],
+74 silly audit   '@babel/helper-validator-option': [ '7.21.0' ],
+74 silly audit   '@babel/helpers': [ '7.21.0' ],
+74 silly audit   '@babel/highlight': [ '7.18.6' ],
+74 silly audit   '@babel/parser': [ '7.21.2' ],
+74 silly audit   '@babel/plugin-transform-react-jsx-self': [ '7.21.0' ],
+74 silly audit   '@babel/plugin-transform-react-jsx-source': [ '7.19.6' ],
+74 silly audit   '@babel/template': [ '7.20.7' ],
+74 silly audit   '@babel/traverse': [ '7.21.2' ],
+74 silly audit   '@babel/types': [ '7.21.2' ],
+74 silly audit   '@emailjs/browser': [ '3.10.0' ],
+74 silly audit   '@esbuild/android-arm': [ '0.16.17' ],
+74 silly audit   '@esbuild/android-arm64': [ '0.16.17' ],
+74 silly audit   '@esbuild/android-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/darwin-arm64': [ '0.16.17' ],
+74 silly audit   '@esbuild/darwin-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/freebsd-arm64': [ '0.16.17' ],
+74 silly audit   '@esbuild/freebsd-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-arm': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-arm64': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-ia32': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-loong64': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-mips64el': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-ppc64': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-riscv64': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-s390x': [ '0.16.17' ],
+74 silly audit   '@esbuild/linux-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/netbsd-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/openbsd-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/sunos-x64': [ '0.16.17' ],
+74 silly audit   '@esbuild/win32-arm64': [ '0.16.17' ],
+74 silly audit   '@esbuild/win32-ia32': [ '0.16.17' ],
+74 silly audit   '@esbuild/win32-x64': [ '0.16.17' ],
+74 silly audit   '@jridgewell/resolve-uri': [ '3.1.0' ],
+74 silly audit   '@jridgewell/set-array': [ '1.1.2' ],
+74 silly audit   '@jridgewell/sourcemap-codec': [ '1.4.14' ],
+74 silly audit   '@jridgewell/trace-mapping': [ '0.3.17' ],
+74 silly audit   '@remix-run/router': [ '1.3.3' ],
+74 silly audit   '@types/prop-types': [ '15.7.5' ],
+74 silly audit   '@types/react': [ '18.0.28' ],
+74 silly audit   '@types/react-dom': [ '18.0.11' ],
+74 silly audit   '@types/scheduler': [ '0.16.2' ],
+74 silly audit   '@vitejs/plugin-react': [ '3.1.0' ],
+74 silly audit   'animate.css': [ '4.1.1' ],
+74 silly audit   'ansi-styles': [ '3.2.1' ],
+74 silly audit   anymatch: [ '3.1.3' ],
+74 silly audit   'binary-extensions': [ '2.2.0' ],
+74 silly audit   braces: [ '3.0.2' ],
+74 silly audit   browserslist: [ '4.21.5' ],
+74 silly audit   'caniuse-lite': [ '1.0.30001462' ],
+74 silly audit   chalk: [ '2.4.2' ],
+74 silly audit   chokidar: [ '3.5.3' ],
+74 silly audit   'color-convert': [ '1.9.3' ],
+74 silly audit   'color-name': [ '1.1.3' ],
+74 silly audit   'convert-source-map': [ '1.9.0' ],
+74 silly audit   csstype: [ '3.1.1' ],
+74 silly audit   debug: [ '4.3.4' ],
+74 silly audit   'electron-to-chromium': [ '1.4.323' ],
+74 silly audit   emailjs: [ '4.0.1' ],
+74 silly audit   esbuild: [ '0.16.17' ],
+74 silly audit   escalade: [ '3.1.1' ],
+74 silly audit   'escape-string-regexp': [ '1.0.5' ],
+74 silly audit   'fast-deep-equal': [ '3.1.3' ],
+74 silly audit   'fill-range': [ '7.0.1' ],
+74 silly audit   fortawesome: [ '0.0.1-security' ],
+74 silly audit   fsevents: [ '2.3.2' ],
+74 silly audit   'function-bind': [ '1.1.1' ],
+74 silly audit   gensync: [ '1.0.0-beta.2' ],
+74 silly audit   'glob-parent': [ '5.1.2' ],
+74 silly audit   globals: [ '11.12.0' ],
+74 silly audit   'gsap-trial': [ '3.11.4' ],
+74 silly audit   has: [ '1.0.3' ],
+74 silly audit   'has-flag': [ '3.0.0' ],
+74 silly audit   immutable: [ '4.2.4' ],
+74 silly audit   'is-binary-path': [ '2.1.0' ],
+74 silly audit   'is-core-module': [ '2.11.0' ],
+74 silly audit   'is-extglob': [ '2.1.1' ],
+74 silly audit   'is-glob': [ '4.0.3' ],
+74 silly audit   'is-number': [ '7.0.0' ],
+74 silly audit   'js-tokens': [ '4.0.0' ],
+74 silly audit   jsesc: [ '2.5.2' ],
+74 silly audit   json5: [ '2.2.3' ],
+74 silly audit   'loose-envify': [ '1.4.0' ],
+74 silly audit   'lru-cache': [ '5.1.1' ],
+74 silly audit   'magic-string': [ '0.27.0' ],
+74 silly audit   ms: [ '2.1.2' ],
+74 silly audit   nanoid: [ '3.3.4' ],
+74 silly audit   'node-releases': [ '2.0.10' ],
+74 silly audit   'normalize-path': [ '3.0.0' ],
+74 silly audit   'particle.js': [ '1.0.7' ],
+74 silly audit   'path-parse': [ '1.0.7' ],
+74 silly audit   picocolors: [ '1.0.0' ],
+74 silly audit   picomatch: [ '2.3.1' ],
+74 silly audit   postcss: [ '8.4.21' ],
+74 silly audit   react: [ '18.2.0' ],
+74 silly audit   'react-dom': [ '18.2.0' ],
+74 silly audit   'react-refresh': [ '0.14.0' ],
+74 silly audit   'react-router': [ '6.8.2' ],
+74 silly audit   'react-router-dom': [ '6.8.2' ],
+74 silly audit   'react-tsparticles': [ '2.9.3' ],
+74 silly audit   readdirp: [ '3.6.0' ],
+74 silly audit   resolve: [ '1.22.1' ],
+74 silly audit   rollup: [ '3.18.0' ],
+74 silly audit   sass: [ '1.58.3' ],
+74 silly audit   scheduler: [ '0.23.0' ],
+74 silly audit   semver: [ '6.3.0' ],
+74 silly audit   'source-map-js': [ '1.0.2' ],
+74 silly audit   'supports-color': [ '5.5.0' ],
+74 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+74 silly audit   'to-fast-properties': [ '2.0.0' ],
+74 silly audit   'to-regex-range': [ '5.0.1' ],
+74 silly audit   tsparticles: [ '2.9.3' ],
+74 silly audit   'tsparticles-engine': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-attract': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-bounce': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-bubble': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-connect': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-grab': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-pause': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-push': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-remove': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-repulse': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-slow': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-external-trail': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-particles-attract': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-particles-collisions': [ '2.9.3' ],
+74 silly audit   'tsparticles-interaction-particles-links': [ '2.9.3' ],
+74 silly audit   'tsparticles-move-base': [ '2.9.3' ],
+74 silly audit   'tsparticles-move-parallax': [ '2.9.3' ],
+74 silly audit   'tsparticles-particles.js': [ '2.9.3' ],
+74 silly audit   'tsparticles-plugin-absorbers': [ '2.9.3' ],
+74 silly audit   'tsparticles-plugin-easing-quad': [ '2.9.3' ],
+74 silly audit   'tsparticles-plugin-emitters': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-circle': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-image': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-line': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-polygon': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-square': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-star': [ '2.9.3' ],
+74 silly audit   'tsparticles-shape-text': [ '2.9.3' ],
+74 silly audit   'tsparticles-slim': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-angle': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-color': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-destroy': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-life': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-opacity': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-out-modes': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-roll': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-size': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-stroke-color': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-tilt': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-twinkle': [ '2.9.3' ],
+74 silly audit   'tsparticles-updater-wobble': [ '2.9.3' ],
+74 silly audit   'update-browserslist-db': [ '1.0.10' ],
+74 silly audit   vite: [ '4.1.4' ],
+74 silly audit   yallist: [ '3.1.1' ],
+74 silly audit   '@fortawesome/react-fontawesome': [ '0.2.0' ],
+74 silly audit   '@fortawesome/fontawesome-svg-core': [ '6.3.0' ],
+74 silly audit   '@fortawesome/fontawesome-common-types': [ '6.3.0' ],
+74 silly audit   'prop-types': [ '15.8.1' ],
+74 silly audit   'object-assign': [ '4.1.1' ],
+74 silly audit   'react-is': [ '16.13.1' ]
+74 silly audit }
+75 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/fsevents
+76 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/fsevents' ]
+77 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-x64
+78 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-x64' ]
+79 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-ia32
+80 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-ia32' ]
+81 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-arm64
+82 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-arm64' ]
+83 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/sunos-x64
+84 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/sunos-x64' ]
+85 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/openbsd-x64
+86 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/openbsd-x64' ]
+87 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/netbsd-x64
+88 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/netbsd-x64' ]
+89 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-s390x
+90 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-s390x' ]
+91 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-riscv64
+92 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-riscv64' ]
+93 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-ppc64
+94 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-ppc64' ]
+95 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-mips64el
+96 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-mips64el' ]
+97 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-loong64
+98 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-loong64' ]
+99 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-ia32
+100 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-ia32' ]
+101 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm64
+102 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm64' ]
+103 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm
+104 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm' ]
+105 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-x64
+106 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-x64' ]
+107 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-arm64
+108 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-arm64' ]
+109 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/darwin-x64
+110 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/darwin-x64' ]
+111 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/darwin-arm64
+112 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/darwin-arm64' ]
+113 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-x64
+114 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-x64' ]
+115 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-arm64
+116 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-arm64' ]
+117 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-arm
+118 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-arm' ]
+119 timing reifyNode:node_modules/fsevents Completed in 6ms
+120 timing reifyNode:node_modules/@esbuild/win32-x64 Completed in 6ms
+121 timing reifyNode:node_modules/@esbuild/win32-ia32 Completed in 6ms
+122 timing reifyNode:node_modules/@esbuild/win32-arm64 Completed in 6ms
+123 timing reifyNode:node_modules/@esbuild/sunos-x64 Completed in 6ms
+124 timing reifyNode:node_modules/@esbuild/openbsd-x64 Completed in 6ms
+125 timing reifyNode:node_modules/@esbuild/netbsd-x64 Completed in 6ms
+126 timing reifyNode:node_modules/@esbuild/linux-s390x Completed in 5ms
+127 timing reifyNode:node_modules/@esbuild/linux-riscv64 Completed in 5ms
+128 timing reifyNode:node_modules/@esbuild/linux-ppc64 Completed in 5ms
+129 timing reifyNode:node_modules/@esbuild/linux-mips64el Completed in 5ms
+130 timing reifyNode:node_modules/@esbuild/linux-loong64 Completed in 5ms
+131 timing reifyNode:node_modules/@esbuild/linux-ia32 Completed in 5ms
+132 timing reifyNode:node_modules/@esbuild/linux-arm64 Completed in 5ms
+133 timing reifyNode:node_modules/@esbuild/linux-arm Completed in 5ms
+134 timing reifyNode:node_modules/@esbuild/freebsd-x64 Completed in 5ms
+135 timing reifyNode:node_modules/@esbuild/freebsd-arm64 Completed in 5ms
+136 timing reifyNode:node_modules/@esbuild/darwin-x64 Completed in 5ms
+137 timing reifyNode:node_modules/@esbuild/darwin-arm64 Completed in 5ms
+138 timing reifyNode:node_modules/@esbuild/android-x64 Completed in 5ms
+139 timing reifyNode:node_modules/@esbuild/android-arm64 Completed in 5ms
+140 timing reifyNode:node_modules/@esbuild/android-arm Completed in 5ms
+141 silly tarball no local data for @fortawesome/fontawesome-common-types@https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.3.0.tgz. Extracting by manifest.
+142 silly tarball no local data for @fortawesome/fontawesome-svg-core@https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.3.0.tgz. Extracting by manifest.
+143 silly tarball no local data for @fortawesome/react-fontawesome@https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.2.0.tgz. Extracting by manifest.
+144 timing reifyNode:node_modules/object-assign Completed in 30ms
+145 timing reifyNode:node_modules/react-is Completed in 32ms
+146 timing reifyNode:node_modules/prop-types Completed in 33ms
+147 http fetch GET 200 https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.3.0.tgz 98ms (cache miss)
+148 timing reifyNode:node_modules/@fortawesome/fontawesome-common-types Completed in 109ms
+149 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 156ms
+150 timing auditReport:getReport Completed in 159ms
+151 silly audit report {}
+152 timing auditReport:init Completed in 0ms
+153 timing reify:audit Completed in 159ms
+154 http fetch GET 200 https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.3.0.tgz 184ms (cache miss)
+155 timing reifyNode:node_modules/@fortawesome/fontawesome-svg-core Completed in 195ms
+156 http fetch GET 200 https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.2.0.tgz 450ms (cache miss)
+157 timing reifyNode:node_modules/@fortawesome/react-fontawesome Completed in 462ms
+158 timing reify:unpack Completed in 462ms
+159 timing reify:unretire Completed in 0ms
+160 timing build:queue Completed in 2ms
+161 info run @fortawesome/fontawesome-common-types@6.3.0 postinstall node_modules/@fortawesome/fontawesome-common-types node attribution.js
+162 info run @fortawesome/fontawesome-svg-core@6.3.0 postinstall node_modules/@fortawesome/fontawesome-svg-core node attribution.js
+163 info run @fortawesome/fontawesome-common-types@6.3.0 postinstall { code: 0, signal: null }
+164 timing build:run:postinstall:node_modules/@fortawesome/fontawesome-common-types Completed in 27ms
+165 info run @fortawesome/fontawesome-svg-core@6.3.0 postinstall { code: 0, signal: null }
+166 timing build:run:postinstall:node_modules/@fortawesome/fontawesome-svg-core Completed in 25ms
+167 timing build:run:postinstall Completed in 30ms
+168 timing build:deps Completed in 32ms
+169 timing build Completed in 32ms
+170 timing reify:build Completed in 32ms
+171 timing reify:trash Completed in 2ms
+172 timing reify:save Completed in 26ms
+173 timing reify Completed in 1720ms
+174 silly ADD node_modules/react-is
+175 silly ADD node_modules/object-assign
+176 silly ADD node_modules/prop-types
+177 silly ADD node_modules/@fortawesome/fontawesome-common-types
+178 silly ADD node_modules/@fortawesome/fontawesome-svg-core
+179 silly ADD node_modules/@fortawesome/react-fontawesome
+180 silly ADD
+181 silly ADD
+182 silly ADD
+183 silly ADD
+184 silly ADD
+185 silly ADD
+186 silly ADD
+187 silly ADD
+188 silly ADD
+189 silly ADD
+190 silly ADD
+191 silly ADD
+192 silly ADD
+193 silly ADD
+194 silly ADD
+195 silly ADD
+196 silly ADD
+197 silly ADD
+198 silly ADD
+199 silly ADD
+200 silly ADD
+201 silly ADD
+202 timing command:i Completed in 1725ms
+203 verbose exit 0
+204 timing npm Completed in 1748ms
+205 info ok

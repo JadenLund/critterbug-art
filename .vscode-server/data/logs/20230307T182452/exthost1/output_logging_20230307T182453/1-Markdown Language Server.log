@@ -1,0 +1,5 @@
+[Trace 00:24:54.394] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 00:24:54.606] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 00:24:54.607] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 00:24:54.692] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 00:24:54.815] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md

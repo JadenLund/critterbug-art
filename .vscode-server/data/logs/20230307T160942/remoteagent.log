@@ -1,0 +1,22 @@
+2023-03-07 16:09:42.103 [info] 
+
+
+
+
+2023-03-07 16:09:42.124 [info] Extension host agent started.
+2023-03-07 16:09:42.170 [info] [127.0.0.1][3380360d][ManagementConnection] New connection established.
+2023-03-07 16:09:42.358 [info] [127.0.0.1][6535798b][ExtensionHostConnection] New connection established.
+2023-03-07 16:09:42.366 [info] [127.0.0.1][6535798b][ExtensionHostConnection] <106> Launched Extension Host Process.
+2023-03-07 16:09:46.225 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-03-07 16:09:46.363 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-03-07 16:09:48.426 [info] Extension signature verification: ms-vsliveshare.vsliveshare. Verification status: Verified.
+2023-03-07 16:09:49.624 [info] Extracted extension to /home/jaden/.vscode-server/extensions/.f0242624-a81b-4447-a92f-15fd7d0f26a6: ms-vsliveshare.vsliveshare
+2023-03-07 16:09:49.634 [info] Renamed to /home/jaden/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-07 16:09:49.637 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-03-07 16:09:49.643 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-03-07 16:09:49.648 [info] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5832
+2023-03-07 16:24:43.459 [info] [127.0.0.1][11f3c045][ManagementConnection] New connection established.
+2023-03-07 16:24:43.640 [info] [127.0.0.1][2fef4188][ExtensionHostConnection] New connection established.
+2023-03-07 16:24:43.649 [info] [127.0.0.1][2fef4188][ExtensionHostConnection] <495> Launched Extension Host Process.
+2023-03-07 16:32:18.189 [info] [127.0.0.1][11f3c045][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 16:32:28.242 [info] [127.0.0.1][2fef4188][ExtensionHostConnection] <495> Extension Host Process exited with code: 0, signal: null.

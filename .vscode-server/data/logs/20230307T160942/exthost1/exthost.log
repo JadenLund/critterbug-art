@@ -1,0 +1,25 @@
+2023-03-07 16:09:42.628 [info] Extension host with pid 106 started
+2023-03-07 16:09:42.631 [error] Error: EEXIST: file already exists, open '/home/jaden/.vscode-server/data/User/workspaceStorage/d4cbc282366615a72a24395f512f87b8/vscode.lock'
+2023-03-07 16:09:42.635 [info] Lock '/home/jaden/.vscode-server/data/User/workspaceStorage/d4cbc282366615a72a24395f512f87b8/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-03-07 16:09:42.638 [info] Lock '/home/jaden/.vscode-server/data/User/workspaceStorage/d4cbc282366615a72a24395f512f87b8/vscode.lock': The pid 21071 appears to be gone.
+2023-03-07 16:09:42.638 [info] Lock '/home/jaden/.vscode-server/data/User/workspaceStorage/d4cbc282366615a72a24395f512f87b8/vscode.lock': Deleting a stale lock.
+2023-03-07 16:09:42.644 [info] Lock '/home/jaden/.vscode-server/data/User/workspaceStorage/d4cbc282366615a72a24395f512f87b8/vscode.lock': Lock acquired.
+2023-03-07 16:09:42.673 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-07 16:09:42.673 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:git-commit'
+2023-03-07 16:09:42.719 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-07 16:09:42.719 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-07 16:09:42.855 [info] Eager extensions activated
+2023-03-07 16:09:42.855 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-07 16:09:42.856 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-07 16:09:42.856 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-07 16:09:42.856 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'
+2023-03-07 16:09:43.447 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-07 16:10:11.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-03-07 16:10:12.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10007
+2023-03-07 16:24:32.862 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-03-07 16:24:32.864 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-03-07 16:24:32.864 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-03-07 16:25:58.475 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-03-07 16:26:31.879 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2023-03-07 16:27:45.348 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-07 16:27:45.747 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

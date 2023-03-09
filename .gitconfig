@@ -1,0 +1,9 @@
+[user]
+	email = lundjaden@gmail.com
+	name = JadenLund
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[credential]
+	helper = wincred

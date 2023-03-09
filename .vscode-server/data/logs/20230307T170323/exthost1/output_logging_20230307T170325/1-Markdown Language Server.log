@@ -1,0 +1,571 @@
+[Trace 23:03:26.544] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:03:26.545] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:03:26.547] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:03:26.604] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 1
+[Debug 23:03:26.605] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:03:26.643] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:03:26.776] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 1
+[Debug 23:03:26.777] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.356] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.356] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.487] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.487] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.694] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:16.694] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:10:16.952] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:10:17.044] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 4
+[Debug 23:10:17.044] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:17.204] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 4
+[Trace 23:10:17.355] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:17.356] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:10:17.565] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 5
+[Debug 23:10:17.565] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:10:17.703] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 5
+[Debug 23:10:17.703] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:00.619] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:05.493] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:05.652] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 5
+[Trace 23:11:06.712] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:06.713] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:06.918] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 6
+[Debug 23:11:06.918] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:06.966] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:07.075] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 6
+[Trace 23:11:07.286] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:07.286] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:07.412] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:07.484] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 7
+[Trace 23:11:07.634] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 7
+[Debug 23:11:07.634] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:08.116] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:13.393] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:13.566] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 7
+[Trace 23:11:13.972] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:24.305] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:24.479] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 7
+[Trace 23:11:25.310] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:25.310] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:25.509] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 8
+[Debug 23:11:25.509] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:25.569] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:25.665] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 8
+[Trace 23:11:26.010] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:26.010] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:11:26.207] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 9
+[Debug 23:11:26.207] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:26.364] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 9
+[Debug 23:11:26.364] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:28.360] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:11:57.962] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:12:01.267] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:12:01.267] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:12:01.438] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 9
+[Debug 23:12:01.438] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:12.829] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:12.830] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:12.889] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:13.021] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 10
+[Debug 23:13:13.078] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:13.184] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 10
+[Trace 23:13:32.073] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:32.074] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:32.167] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:32.265] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 11
+[Debug 23:13:32.317] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:32.417] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 11
+[Trace 23:13:33.476] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:33.476] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:33.677] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 12
+[Debug 23:13:33.677] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:33.830] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 12
+[Debug 23:13:33.830] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:33.896] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:34.473] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:49.085] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:13:52.241] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:13:52.410] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 12
+[Debug 23:13:52.410] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.185] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.185] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.327] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.327] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.486] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.486] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.635] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.636] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:26.859] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 16
+[Debug 23:14:26.859] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:26.890] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:26.998] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 16
+[Trace 23:14:27.148] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.148] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.331] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.331] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.435] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.435] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:27.653] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 19
+[Debug 23:14:27.653] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:27.698] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.794] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 19
+[Trace 23:14:27.864] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:27.865] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.003] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.003] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.170] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.170] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:28.375] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 22
+[Debug 23:14:28.375] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.423] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.424] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:28.626] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 23
+[Debug 23:14:28.626] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:28.675] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.782] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 23
+[Trace 23:14:28.965] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:28.965] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:29.173] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 24
+[Debug 23:14:29.173] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:29.210] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:29.314] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 24
+[Trace 23:14:30.210] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:30.264] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:33.198] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:36.619] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:36.620] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:36.789] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 24
+[Debug 23:14:36.789] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:41.689] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:41.690] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:41.883] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 25
+[Debug 23:14:41.883] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:41.933] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:42.034] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 25
+[Trace 23:14:42.949] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:42.959] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:43.292] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:44.351] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:44.352] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:44.525] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 25
+[Debug 23:14:44.525] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:44.879] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:44.879] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:45.024] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:45.070] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 26
+[Debug 23:14:45.121] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:45.222] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 26
+[Trace 23:14:47.860] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:47.860] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:48.056] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 27
+[Debug 23:14:48.056] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:48.108] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:48.208] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 27
+[Trace 23:14:49.270] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:49.280] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:49.885] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:14:50.677] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:50.677] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:14:50.852] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 27
+[Debug 23:14:50.852] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:15:59.279] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:15:59.279] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:15:59.475] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 28
+[Debug 23:15:59.475] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:15:59.534] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:15:59.634] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 28
+[Trace 23:16:00.977] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:00.991] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:02.480] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:05.736] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:05.736] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:05.920] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 28
+[Debug 23:16:05.920] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:08.874] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:09.185] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:09.339] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 28
+[Trace 23:16:12.793] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:21.602] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 28
+[Trace 23:16:25.683] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:25.683] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:25.885] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:25.886] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 29
+[Debug 23:16:25.887] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:25.934] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:26.042] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 29
+[Trace 23:16:27.211] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:28.540] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:28.540] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:28.735] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 30
+[Debug 23:16:28.735] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:28.887] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 30
+[Debug 23:16:28.887] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:29.445] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:29.446] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:29.642] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 31
+[Debug 23:16:29.642] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:29.693] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:29.792] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 31
+[Trace 23:16:30.028] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:30.028] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:30.132] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:30.218] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 32
+[Trace 23:16:30.368] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 32
+[Debug 23:16:30.368] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:30.513] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:30.564] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:30.741] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:33.647] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:33.648] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:33.820] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 32
+[Debug 23:16:33.820] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:38.163] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:38.163] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:38.361] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 33
+[Debug 23:16:38.361] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:38.516] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 33
+[Debug 23:16:38.516] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:39.921] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:39.933] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:44.267] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:44.267] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:16:44.465] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 34
+[Debug 23:16:44.465] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:16:44.618] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 34
+[Debug 23:16:44.618] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:35.453] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:41.148] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:41.149] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:41.349] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:41.356] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 35
+[Debug 23:22:41.356] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:41.392] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:41.493] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 35
+[Trace 23:22:41.895] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:42.670] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:42.670] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:42.862] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 36
+[Debug 23:22:42.862] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:43.013] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 36
+[Debug 23:22:43.013] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:45.639] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:45.639] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:45.834] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 37
+[Debug 23:22:45.834] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:45.985] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 37
+[Debug 23:22:45.985] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.196] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.197] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.388] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.388] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:49.585] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 39
+[Debug 23:22:49.585] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.631] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.631] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:49.834] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 40
+[Debug 23:22:49.835] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:49.874] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:49.976] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 40
+[Trace 23:22:56.309] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.309] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.506] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.507] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.570] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.570] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.716] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.716] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:56.716] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:56.916] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 45
+[Debug 23:22:56.916] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:56.967] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:57.067] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 45
+[Trace 23:22:57.380] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:57.381] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:57.584] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 46
+[Debug 23:22:57.584] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:22:57.628] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:57.727] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 46
+[Trace 23:22:58.454] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:22:58.471] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:31.210] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:32.189] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:32.565] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:33.542] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:34.204] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:34.204] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:34.399] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 47
+[Debug 23:24:34.399] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:34.549] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 47
+[Debug 23:24:34.550] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:37.469] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:37.470] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:37.664] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 48
+[Debug 23:24:37.664] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:37.824] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 48
+[Debug 23:24:37.824] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:38.319] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:38.320] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:38.519] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 49
+[Debug 23:24:38.519] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:38.544] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:38.544] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:38.751] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 50
+[Debug 23:24:38.751] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:38.886] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 50
+[Debug 23:24:38.886] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.506] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.506] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.695] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.695] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.827] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.827] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.988] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:41.988] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.174] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.174] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.290] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.290] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.466] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.466] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:42.672] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 57
+[Debug 23:24:42.672] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:42.719] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.824] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:42.825] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:43.033] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 58
+[Debug 23:24:43.033] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:43.080] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:43.172] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 58
+[Trace 23:24:43.501] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:43.501] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:43.703] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 59
+[Debug 23:24:43.704] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:43.746] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:43.859] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 59
+[Trace 23:24:44.022] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.022] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.114] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.114] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.215] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.215] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:44.408] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 62
+[Debug 23:24:44.408] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:44.455] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.553] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.553] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.743] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.743] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.902] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:44.903] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.092] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.092] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.161] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.162] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.254] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.254] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:45.455] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 68
+[Debug 23:24:45.455] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:45.499] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.613] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 68
+[Trace 23:24:45.955] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:45.955] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:46.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:46.005] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:46.180] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:46.180] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:46.382] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 71
+[Debug 23:24:46.383] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:46.424] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:46.539] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 71
+[Trace 23:24:47.423] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:47.474] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:47.821] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:24:57.841] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:57.841] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:24:58.023] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 71
+[Debug 23:24:58.023] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:25:04.828] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:25:59.465] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:25:59.631] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 71
+[Trace 23:26:00.729] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:01.720] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:01.894] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 71
+[Trace 23:26:06.737] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:06.737] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:06.929] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 72
+[Debug 23:26:06.929] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:06.982] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:07.085] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 72
+[Trace 23:26:07.103] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:07.103] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:07.299] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 73
+[Debug 23:26:07.300] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:07.350] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:07.454] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 73
+[Trace 23:26:07.538] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:10.757] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:10.757] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:10.959] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:10.965] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 74
+[Debug 23:26:10.965] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:11.010] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:11.111] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 74
+[Trace 23:26:11.504] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.145] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.299] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.299] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:14.504] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 76
+[Debug 23:26:14.504] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:14.548] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.558] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.558] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.729] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.729] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.890] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:14.890] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.041] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.041] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.187] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.187] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.350] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.351] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.501] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.501] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.658] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.659] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:15.867] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 84
+[Debug 23:26:15.867] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:15.906] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.964] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:15.964] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:16.178] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 85
+[Debug 23:26:16.178] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:16.215] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:16.319] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 85
+[Trace 23:26:17.104] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:17.114] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:18.352] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:28.351] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:28.351] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:28.535] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 85
+[Debug 23:26:28.535] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:35.442] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:35.442] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:35.636] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 86
+[Debug 23:26:35.636] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:35.688] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:35.796] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 86
+[Trace 23:26:38.228] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:38.228] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:38.423] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 87
+[Debug 23:26:38.423] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:38.477] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:38.572] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 87
+[Trace 23:26:38.846] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:44.020] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:47.632] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:50.339] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:50.339] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:50.530] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 88
+[Debug 23:26:50.530] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:50.541] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:50.580] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:50.680] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 88
+[Trace 23:26:51.379] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.229] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.229] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.382] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.382] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.525] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.681] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.681] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.871] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:52.871] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.016] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.016] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.179] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.179] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.342] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.343] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.502] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.502] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.694] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.694] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.833] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:53.833] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:54.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:54.004] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:54.205] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 100
+[Debug 23:26:54.206] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:54.253] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:54.357] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 100
+[Trace 23:26:54.673] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:54.674] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:54.881] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 101
+[Debug 23:26:54.881] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:26:54.920] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:55.036] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 101
+[Trace 23:26:56.483] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:26:56.494] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:26.677] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:31.174] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:31.175] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:31.346] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 101
+[Debug 23:27:31.346] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:34.667] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:36.523] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:36.523] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:36.724] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:36.730] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 102
+[Debug 23:27:36.730] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:36.776] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:36.874] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 102
+[Trace 23:27:37.590] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.481] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.481] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.619] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.619] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.765] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.912] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:38.913] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:39.109] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 106
+[Debug 23:27:39.110] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:39.158] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.243] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.243] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:39.443] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 107
+[Debug 23:27:39.444] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:39.491] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.591] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 107
+[Trace 23:27:39.645] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.646] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.801] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.802] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.948] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:39.948] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:40.013] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:40.014] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:40.087] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:40.087] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:40.304] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 112
+[Debug 23:27:40.304] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:40.333] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:40.442] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 112
+[Trace 23:27:42.631] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:42.632] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:42.824] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 113
+[Debug 23:27:42.824] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:42.976] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 113
+[Debug 23:27:42.976] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:43.508] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:43.508] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:43.671] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:43.671] Server: connection.languages.diagnostics.on: file:///home/jaden/projects/critterbug-art/README.md
+[Debug 23:27:43.877] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/projects/critterbug-art/README.md 115
+[Debug 23:27:43.877] TableOfContentsProvider: create - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:44.014] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/projects/critterbug-art/README.md 115
+[Debug 23:27:44.014] LinkProvider: compute - file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:44.935] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md
+[Trace 23:27:44.984] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/projects/critterbug-art/README.md

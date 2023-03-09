@@ -1,0 +1,12 @@
+[Trace 00:25:07.678] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jaden/Portfolio1/README.md
+[Trace 00:25:07.680] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/Portfolio1/README.md
+[Trace 00:25:07.683] Server: connection.languages.diagnostics.on: file:///home/jaden/Portfolio1/README.md
+[Trace 00:25:07.746] Server: connection.languages.diagnostics.on: file:///home/jaden/Portfolio1/README.md
+[Debug 00:25:07.911] LinkProvider: compute - file:///home/jaden/Portfolio1/README.md
+[Debug 00:25:08.367] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/Portfolio1/README.md 1
+[Debug 00:25:08.367] TableOfContentsProvider: create - file:///home/jaden/Portfolio1/README.md
+[Trace 00:25:09.457] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/Portfolio1/README.md 1
+[Trace 00:32:50.586] Server: connection.languages.diagnostics.on: file:///home/jaden/Portfolio1/README.md
+[Trace 00:38:03.307] Server: connection.languages.diagnostics.on: file:///home/jaden/Portfolio1/README.md
+[Debug 00:38:03.647] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/Portfolio1/README.md 1
+[Trace 00:38:21.105] Server: connection.languages.diagnostics.on: file:///home/jaden/Portfolio1/README.md

@@ -1,0 +1,30 @@
+2023-03-07 18:05:19.490 [info] Log level: Info
+2023-03-07 18:05:19.490 [info] Validating found git in: "git"
+2023-03-07 18:05:19.490 [info] Using git "2.34.1" from "git"
+2023-03-07 18:05:19.490 [info] > git rev-parse --show-toplevel [495ms]
+2023-03-07 18:05:19.490 [info] > git rev-parse --git-dir --git-common-dir [36ms]
+2023-03-07 18:05:19.499 [info] Open repository: /home/jaden
+2023-03-07 18:05:19.518 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-07 18:05:19.529 [info] > git config --get commit.template [11ms]
+2023-03-07 18:05:19.531 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-03-07 18:05:19.534 [info] Open repository: /home/jaden/projects/critterbug-art
+2023-03-07 18:05:19.559 [info] > git config --get commit.template [5ms]
+2023-03-07 18:05:19.559 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2023-03-07 18:05:19.565 [info] > git rev-parse --show-toplevel [22ms]
+2023-03-07 18:05:19.672 [info] > git rev-parse --show-toplevel [103ms]
+2023-03-07 18:05:19.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-03-07 18:05:19.691 [info] > git status -z -uall [2ms]
+2023-03-07 18:05:19.766 [info] > git status -z -uall [201ms] (cancelled)
+2023-03-07 18:05:19.766 [info] > git config --get commit.template [28ms]
+2023-03-07 18:05:19.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-03-07 18:05:19.882 [info] > git status -z -uall [4ms]
+2023-03-07 18:05:20.100 [info] > git check-ignore -v -z --stdin [10ms]
+2023-03-07 18:05:20.101 [info] > git check-ignore -v -z --stdin [4ms]
+2023-03-07 18:05:20.150 [info] > git show --textconv :README.md [15ms]
+2023-03-07 18:05:20.151 [info] > git ls-files --stage -- /home/jaden/projects/critterbug-art/README.md [10ms]
+2023-03-07 18:05:20.158 [info] > git cat-file -s 330834d43b7919f389326384e05d7d7324ef007a [2ms]
+2023-03-07 18:06:15.112 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-07 18:06:20.308 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-07 18:06:45.166 [info] > git config --get commit.template [1ms]
+2023-03-07 18:06:45.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-03-07 18:06:45.174 [info] > git status -z -uall [1ms]

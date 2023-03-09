@@ -1,0 +1,336 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.5.0
+2 info using node@v19.7.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/jaden/portfoliomvp/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:/home/jaden/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 0ms
+16 timing config:load Completed in 8ms
+17 timing npm:load:configload Completed in 8ms
+18 timing npm:load:mkdirpcache Completed in 1ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm i particle.js
+21 verbose argv "i" "particle.js"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing config:load:flatten Completed in 1ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile logs-max:10 dir:/home/jaden/.npm/_logs/2023-03-08T00_47_51_020Z-
+26 verbose logfile /home/jaden/.npm/_logs/2023-03-08T00_47_51_020Z-debug-0.log
+27 timing npm:load:logFile Completed in 2ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 15ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 62ms
+35 timing idealTree:userRequests Completed in 1ms
+36 silly idealTree buildDeps
+37 silly fetch manifest particle.js@*
+38 timing arborist:ctor Completed in 0ms
+39 http fetch GET 200 https://registry.npmjs.org/particle.js 509ms (cache miss)
+40 silly placeDep ROOT particle.js@1.0.7 OK for: portfoliomvp@0.0.0 want: *
+41 timing idealTree:#root Completed in 513ms
+42 timing idealTree:node_modules/particle.js Completed in 0ms
+43 timing idealTree:buildDeps Completed in 514ms
+44 timing idealTree:fixDepFlags Completed in 1ms
+45 timing idealTree Completed in 581ms
+46 timing reify:loadTrees Completed in 582ms
+47 timing reify:diffTrees Completed in 3ms
+48 silly reify moves {}
+49 timing reify:retireShallow Completed in 1ms
+50 timing reify:createSparse Completed in 3ms
+51 timing reify:loadBundles Completed in 0ms
+52 silly audit bulk request {
+52 silly audit   '@ampproject/remapping': [ '2.2.0' ],
+52 silly audit   '@babel/code-frame': [ '7.18.6' ],
+52 silly audit   '@babel/compat-data': [ '7.21.0' ],
+52 silly audit   '@babel/core': [ '7.21.0' ],
+52 silly audit   '@babel/generator': [ '7.21.1' ],
+52 silly audit   '@jridgewell/gen-mapping': [ '0.3.2', '0.1.1' ],
+52 silly audit   '@babel/helper-compilation-targets': [ '7.20.7' ],
+52 silly audit   '@babel/helper-environment-visitor': [ '7.18.9' ],
+52 silly audit   '@babel/helper-function-name': [ '7.21.0' ],
+52 silly audit   '@babel/helper-hoist-variables': [ '7.18.6' ],
+52 silly audit   '@babel/helper-module-imports': [ '7.18.6' ],
+52 silly audit   '@babel/helper-module-transforms': [ '7.21.2' ],
+52 silly audit   '@babel/helper-plugin-utils': [ '7.20.2' ],
+52 silly audit   '@babel/helper-simple-access': [ '7.20.2' ],
+52 silly audit   '@babel/helper-split-export-declaration': [ '7.18.6' ],
+52 silly audit   '@babel/helper-string-parser': [ '7.19.4' ],
+52 silly audit   '@babel/helper-validator-identifier': [ '7.19.1' ],
+52 silly audit   '@babel/helper-validator-option': [ '7.21.0' ],
+52 silly audit   '@babel/helpers': [ '7.21.0' ],
+52 silly audit   '@babel/highlight': [ '7.18.6' ],
+52 silly audit   '@babel/parser': [ '7.21.2' ],
+52 silly audit   '@babel/plugin-transform-react-jsx-self': [ '7.21.0' ],
+52 silly audit   '@babel/plugin-transform-react-jsx-source': [ '7.19.6' ],
+52 silly audit   '@babel/template': [ '7.20.7' ],
+52 silly audit   '@babel/traverse': [ '7.21.2' ],
+52 silly audit   '@babel/types': [ '7.21.2' ],
+52 silly audit   '@emailjs/browser': [ '3.10.0' ],
+52 silly audit   '@esbuild/android-arm': [ '0.16.17' ],
+52 silly audit   '@esbuild/android-arm64': [ '0.16.17' ],
+52 silly audit   '@esbuild/android-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/darwin-arm64': [ '0.16.17' ],
+52 silly audit   '@esbuild/darwin-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/freebsd-arm64': [ '0.16.17' ],
+52 silly audit   '@esbuild/freebsd-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-arm': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-arm64': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-ia32': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-loong64': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-mips64el': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-ppc64': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-riscv64': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-s390x': [ '0.16.17' ],
+52 silly audit   '@esbuild/linux-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/netbsd-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/openbsd-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/sunos-x64': [ '0.16.17' ],
+52 silly audit   '@esbuild/win32-arm64': [ '0.16.17' ],
+52 silly audit   '@esbuild/win32-ia32': [ '0.16.17' ],
+52 silly audit   '@esbuild/win32-x64': [ '0.16.17' ],
+52 silly audit   '@jridgewell/resolve-uri': [ '3.1.0' ],
+52 silly audit   '@jridgewell/set-array': [ '1.1.2' ],
+52 silly audit   '@jridgewell/sourcemap-codec': [ '1.4.14' ],
+52 silly audit   '@jridgewell/trace-mapping': [ '0.3.17' ],
+52 silly audit   '@remix-run/router': [ '1.3.3' ],
+52 silly audit   '@types/prop-types': [ '15.7.5' ],
+52 silly audit   '@types/react': [ '18.0.28' ],
+52 silly audit   '@types/react-dom': [ '18.0.11' ],
+52 silly audit   '@types/scheduler': [ '0.16.2' ],
+52 silly audit   '@vitejs/plugin-react': [ '3.1.0' ],
+52 silly audit   'animate.css': [ '4.1.1' ],
+52 silly audit   'ansi-styles': [ '3.2.1' ],
+52 silly audit   anymatch: [ '3.1.3' ],
+52 silly audit   'binary-extensions': [ '2.2.0' ],
+52 silly audit   braces: [ '3.0.2' ],
+52 silly audit   browserslist: [ '4.21.5' ],
+52 silly audit   'caniuse-lite': [ '1.0.30001462' ],
+52 silly audit   chalk: [ '2.4.2' ],
+52 silly audit   chokidar: [ '3.5.3' ],
+52 silly audit   'color-convert': [ '1.9.3' ],
+52 silly audit   'color-name': [ '1.1.3' ],
+52 silly audit   'convert-source-map': [ '1.9.0' ],
+52 silly audit   csstype: [ '3.1.1' ],
+52 silly audit   debug: [ '4.3.4' ],
+52 silly audit   'electron-to-chromium': [ '1.4.323' ],
+52 silly audit   emailjs: [ '4.0.1' ],
+52 silly audit   esbuild: [ '0.16.17' ],
+52 silly audit   escalade: [ '3.1.1' ],
+52 silly audit   'escape-string-regexp': [ '1.0.5' ],
+52 silly audit   'fast-deep-equal': [ '3.1.3' ],
+52 silly audit   'fill-range': [ '7.0.1' ],
+52 silly audit   fortawesome: [ '0.0.1-security' ],
+52 silly audit   fsevents: [ '2.3.2' ],
+52 silly audit   'function-bind': [ '1.1.1' ],
+52 silly audit   gensync: [ '1.0.0-beta.2' ],
+52 silly audit   'glob-parent': [ '5.1.2' ],
+52 silly audit   globals: [ '11.12.0' ],
+52 silly audit   'gsap-trial': [ '3.11.4' ],
+52 silly audit   has: [ '1.0.3' ],
+52 silly audit   'has-flag': [ '3.0.0' ],
+52 silly audit   immutable: [ '4.2.4' ],
+52 silly audit   'is-binary-path': [ '2.1.0' ],
+52 silly audit   'is-core-module': [ '2.11.0' ],
+52 silly audit   'is-extglob': [ '2.1.1' ],
+52 silly audit   'is-glob': [ '4.0.3' ],
+52 silly audit   'is-number': [ '7.0.0' ],
+52 silly audit   'js-tokens': [ '4.0.0' ],
+52 silly audit   jsesc: [ '2.5.2' ],
+52 silly audit   json5: [ '2.2.3' ],
+52 silly audit   'loose-envify': [ '1.4.0' ],
+52 silly audit   'lru-cache': [ '5.1.1' ],
+52 silly audit   'magic-string': [ '0.27.0' ],
+52 silly audit   ms: [ '2.1.2' ],
+52 silly audit   nanoid: [ '3.3.4' ],
+52 silly audit   'node-releases': [ '2.0.10' ],
+52 silly audit   'normalize-path': [ '3.0.0' ],
+52 silly audit   'path-parse': [ '1.0.7' ],
+52 silly audit   picocolors: [ '1.0.0' ],
+52 silly audit   picomatch: [ '2.3.1' ],
+52 silly audit   postcss: [ '8.4.21' ],
+52 silly audit   react: [ '18.2.0' ],
+52 silly audit   'react-dom': [ '18.2.0' ],
+52 silly audit   'react-refresh': [ '0.14.0' ],
+52 silly audit   'react-router': [ '6.8.2' ],
+52 silly audit   'react-router-dom': [ '6.8.2' ],
+52 silly audit   'react-tsparticles': [ '2.9.3' ],
+52 silly audit   readdirp: [ '3.6.0' ],
+52 silly audit   resolve: [ '1.22.1' ],
+52 silly audit   rollup: [ '3.18.0' ],
+52 silly audit   sass: [ '1.58.3' ],
+52 silly audit   scheduler: [ '0.23.0' ],
+52 silly audit   semver: [ '6.3.0' ],
+52 silly audit   'source-map-js': [ '1.0.2' ],
+52 silly audit   'supports-color': [ '5.5.0' ],
+52 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+52 silly audit   'to-fast-properties': [ '2.0.0' ],
+52 silly audit   'to-regex-range': [ '5.0.1' ],
+52 silly audit   tsparticles: [ '2.9.3' ],
+52 silly audit   'tsparticles-engine': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-attract': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-bounce': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-bubble': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-connect': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-grab': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-pause': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-push': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-remove': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-repulse': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-slow': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-external-trail': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-particles-attract': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-particles-collisions': [ '2.9.3' ],
+52 silly audit   'tsparticles-interaction-particles-links': [ '2.9.3' ],
+52 silly audit   'tsparticles-move-base': [ '2.9.3' ],
+52 silly audit   'tsparticles-move-parallax': [ '2.9.3' ],
+52 silly audit   'tsparticles-particles.js': [ '2.9.3' ],
+52 silly audit   'tsparticles-plugin-absorbers': [ '2.9.3' ],
+52 silly audit   'tsparticles-plugin-easing-quad': [ '2.9.3' ],
+52 silly audit   'tsparticles-plugin-emitters': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-circle': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-image': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-line': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-polygon': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-square': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-star': [ '2.9.3' ],
+52 silly audit   'tsparticles-shape-text': [ '2.9.3' ],
+52 silly audit   'tsparticles-slim': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-angle': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-color': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-destroy': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-life': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-opacity': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-out-modes': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-roll': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-size': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-stroke-color': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-tilt': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-twinkle': [ '2.9.3' ],
+52 silly audit   'tsparticles-updater-wobble': [ '2.9.3' ],
+52 silly audit   'update-browserslist-db': [ '1.0.10' ],
+52 silly audit   vite: [ '4.1.4' ],
+52 silly audit   yallist: [ '3.1.1' ],
+52 silly audit   'particle.js': [ '1.0.7' ]
+52 silly audit }
+53 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/fsevents
+54 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/fsevents' ]
+55 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-x64
+56 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-x64' ]
+57 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-ia32
+58 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-ia32' ]
+59 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/win32-arm64
+60 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/win32-arm64' ]
+61 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/sunos-x64
+62 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/sunos-x64' ]
+63 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/openbsd-x64
+64 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/openbsd-x64' ]
+65 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/netbsd-x64
+66 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/netbsd-x64' ]
+67 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-s390x
+68 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-s390x' ]
+69 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-riscv64
+70 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-riscv64' ]
+71 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-ppc64
+72 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-ppc64' ]
+73 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-mips64el
+74 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-mips64el' ]
+75 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-loong64
+76 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-loong64' ]
+77 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-ia32
+78 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-ia32' ]
+79 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm64
+80 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm64' ]
+81 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm
+82 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/linux-arm' ]
+83 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-x64
+84 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-x64' ]
+85 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-arm64
+86 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/freebsd-arm64' ]
+87 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/darwin-x64
+88 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/darwin-x64' ]
+89 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/darwin-arm64
+90 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/darwin-arm64' ]
+91 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-x64
+92 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-x64' ]
+93 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-arm64
+94 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-arm64' ]
+95 verbose reify failed optional dependency /home/jaden/portfoliomvp/node_modules/@esbuild/android-arm
+96 silly reify mark deleted [ '/home/jaden/portfoliomvp/node_modules/@esbuild/android-arm' ]
+97 timing reifyNode:node_modules/fsevents Completed in 5ms
+98 timing reifyNode:node_modules/@esbuild/win32-x64 Completed in 5ms
+99 timing reifyNode:node_modules/@esbuild/win32-ia32 Completed in 5ms
+100 timing reifyNode:node_modules/@esbuild/win32-arm64 Completed in 5ms
+101 timing reifyNode:node_modules/@esbuild/sunos-x64 Completed in 5ms
+102 timing reifyNode:node_modules/@esbuild/openbsd-x64 Completed in 5ms
+103 timing reifyNode:node_modules/@esbuild/netbsd-x64 Completed in 5ms
+104 timing reifyNode:node_modules/@esbuild/linux-s390x Completed in 5ms
+105 timing reifyNode:node_modules/@esbuild/linux-riscv64 Completed in 5ms
+106 timing reifyNode:node_modules/@esbuild/linux-ppc64 Completed in 5ms
+107 timing reifyNode:node_modules/@esbuild/linux-mips64el Completed in 5ms
+108 timing reifyNode:node_modules/@esbuild/linux-loong64 Completed in 5ms
+109 timing reifyNode:node_modules/@esbuild/linux-ia32 Completed in 5ms
+110 timing reifyNode:node_modules/@esbuild/linux-arm64 Completed in 5ms
+111 timing reifyNode:node_modules/@esbuild/linux-arm Completed in 5ms
+112 timing reifyNode:node_modules/@esbuild/freebsd-x64 Completed in 5ms
+113 timing reifyNode:node_modules/@esbuild/freebsd-arm64 Completed in 5ms
+114 timing reifyNode:node_modules/@esbuild/darwin-x64 Completed in 5ms
+115 timing reifyNode:node_modules/@esbuild/darwin-arm64 Completed in 4ms
+116 timing reifyNode:node_modules/@esbuild/android-x64 Completed in 4ms
+117 timing reifyNode:node_modules/@esbuild/android-arm64 Completed in 4ms
+118 timing reifyNode:node_modules/@esbuild/android-arm Completed in 4ms
+119 silly tarball no local data for particle.js@https://registry.npmjs.org/particle.js/-/particle.js-1.0.7.tgz. Extracting by manifest.
+120 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 128ms
+121 timing auditReport:getReport Completed in 132ms
+122 silly audit report {}
+123 timing auditReport:init Completed in 0ms
+124 timing reify:audit Completed in 132ms
+125 http fetch GET 200 https://registry.npmjs.org/particle.js/-/particle.js-1.0.7.tgz 394ms (cache miss)
+126 timing reifyNode:node_modules/particle.js Completed in 403ms
+127 timing reify:unpack Completed in 404ms
+128 timing reify:unretire Completed in 0ms
+129 timing build:queue Completed in 1ms
+130 timing build:deps Completed in 2ms
+131 timing build Completed in 2ms
+132 timing reify:build Completed in 2ms
+133 timing reify:trash Completed in 1ms
+134 timing reify:save Completed in 23ms
+135 timing reify Completed in 1034ms
+136 silly ADD node_modules/particle.js
+137 silly ADD
+138 silly ADD
+139 silly ADD
+140 silly ADD
+141 silly ADD
+142 silly ADD
+143 silly ADD
+144 silly ADD
+145 silly ADD
+146 silly ADD
+147 silly ADD
+148 silly ADD
+149 silly ADD
+150 silly ADD
+151 silly ADD
+152 silly ADD
+153 silly ADD
+154 silly ADD
+155 silly ADD
+156 silly ADD
+157 silly ADD
+158 silly ADD
+159 timing command:i Completed in 1039ms
+160 verbose exit 0
+161 timing npm Completed in 1061ms
+162 info ok

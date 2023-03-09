@@ -1,0 +1,61 @@
+[Trace 01:59:47.722] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jaden/README.md
+[Trace 01:59:47.722] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/README.md
+[Trace 01:59:47.723] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 01:59:47.725] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 01:59:47.810] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/README.md 1
+[Debug 01:59:47.810] LinkProvider: compute - file:///home/jaden/README.md
+[Debug 01:59:47.903] TableOfContentsProvider: create - file:///home/jaden/README.md
+[Debug 01:59:48.014] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/README.md 1
+[Trace 02:00:04.522] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/README.md
+[Trace 02:00:04.524] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Debug 02:00:04.705] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/README.md 2
+[Debug 02:00:04.705] TableOfContentsProvider: create - file:///home/jaden/README.md
+[Debug 02:00:04.758] LinkProvider: compute - file:///home/jaden/README.md
+[Trace 02:00:04.871] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/README.md 2
+[Trace 02:00:05.514] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/README.md
+[Trace 02:00:05.515] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Debug 02:00:05.697] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/README.md 3
+[Debug 02:00:05.698] TableOfContentsProvider: create - file:///home/jaden/README.md
+[Debug 02:00:05.748] LinkProvider: compute - file:///home/jaden/README.md
+[Trace 02:00:05.871] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/README.md 3
+[Trace 02:00:06.721] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/README.md
+[Trace 02:00:06.722] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Debug 02:00:06.921] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/README.md 4
+[Debug 02:00:06.921] TableOfContentsProvider: create - file:///home/jaden/README.md
+[Debug 02:00:06.967] LinkProvider: compute - file:///home/jaden/README.md
+[Trace 02:00:07.074] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/README.md 4
+[Trace 02:00:24.909] Server: connection.languages.diagnostics.on: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.950] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.950] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.950] Server: connection.languages.diagnostics.on: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.950] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/portfoliomvp/README.md 1
+[Debug 02:00:24.950] LinkProvider: compute - file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.951] Server: connection.languages.diagnostics.on: file:///home/jaden/portfoliomvp/README.md
+[Debug 02:00:24.951] TableOfContentsProvider: create - file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:24.956] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Debug 02:00:25.126] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/portfoliomvp/README.md 1
+[Trace 02:00:25.163] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:25.341] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:25.364] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:25.565] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:25.765] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:25.965] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:26.165] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:26.365] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:26.535] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:26.536] Server: connection.languages.diagnostics.on: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:26.566] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Debug 02:00:26.622] TableOfContentsProvider: create - file:///home/jaden/portfoliomvp/README.md
+[Debug 02:00:26.727] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/portfoliomvp/README.md 2
+[Debug 02:00:26.785] LinkProvider: compute - file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:26.893] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/portfoliomvp/README.md 2
+[Trace 02:00:27.078] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:27.078] Server: connection.languages.diagnostics.on: file:///home/jaden/portfoliomvp/README.md
+[Debug 02:00:27.186] TableOfContentsProvider: create - file:///home/jaden/portfoliomvp/README.md
+[Debug 02:00:27.272] MdFoldingProvider: provideFoldingRanges — file:///home/jaden/portfoliomvp/README.md 3
+[Trace 02:00:27.278] Server: connection.languages.diagnostics.on: file:///home/jaden/README.md
+[Trace 02:00:27.423] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jaden/portfoliomvp/README.md 3
+[Debug 02:00:27.423] LinkProvider: compute - file:///home/jaden/portfoliomvp/README.md
+[Trace 02:00:27.583] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/jaden/.vscode-server/data/User/History/-747fad9/Tfqe.md
+[Trace 02:00:27.583] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jaden/portfoliomvp/README.md
+[Debug 02:00:28.073] LinkProvider: compute - file:///home/jaden/portfoliomvp/README.md

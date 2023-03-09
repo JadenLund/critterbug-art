@@ -1,0 +1,24 @@
+2023-03-07 16:24:45.492 [info] Log level: Info
+2023-03-07 16:24:45.492 [info] Validating found git in: "git"
+2023-03-07 16:24:45.492 [info] Using git "2.34.1" from "git"
+2023-03-07 16:24:45.492 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-07 16:24:45.492 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2023-03-07 16:24:45.492 [info] Open repository: /home/jaden/Portfolio1
+2023-03-07 16:24:45.492 [info] > git rev-parse --show-toplevel [12ms]
+2023-03-07 16:24:45.492 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-07 16:24:45.492 [info] > git config --get commit.template [21ms]
+2023-03-07 16:24:45.492 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-07 16:24:45.492 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-07 16:24:45.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [563ms]
+2023-03-07 16:24:45.492 [info] > git status -z -uall [54ms]
+2023-03-07 16:24:45.492 [info] > git check-ignore -v -z --stdin [70ms]
+2023-03-07 16:24:45.493 [info] > git config --get commit.template [4ms]
+2023-03-07 16:24:45.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-03-07 16:24:45.504 [info] > git status -z -uall [1ms]
+2023-03-07 16:24:45.528 [info] > git show --textconv :index.html [10ms]
+2023-03-07 16:24:45.528 [info] > git ls-files --stage -- /home/jaden/Portfolio1/index.html [5ms]
+2023-03-07 16:24:45.535 [info] > git cat-file -s fd83fa1c85fd1a66e53163e4b009f661cbadc596 [3ms]
+2023-03-07 16:24:56.054 [info] > git check-ignore -v -z --stdin [2ms]
+2023-03-07 16:24:57.899 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-07 16:25:14.184 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-07 16:25:53.663 [info] > git check-ignore -v -z --stdin [1ms]

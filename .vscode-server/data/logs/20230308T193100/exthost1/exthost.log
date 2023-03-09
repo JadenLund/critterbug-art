@@ -1,0 +1,12 @@
+2023-03-08 19:31:01.366 [info] Extension host with pid 109 started
+2023-03-08 19:31:01.379 [info] Lock '/home/jaden/.vscode-server/data/User/workspaceStorage/e1a268b9d1f45babe10b6408929a40ec/vscode.lock': Lock acquired.
+2023-03-08 19:31:01.401 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-08 19:31:01.402 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-08 19:31:01.419 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-03-08 19:31:01.454 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-08 19:31:01.455 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-08 19:31:01.689 [info] Eager extensions activated
+2023-03-08 19:31:01.689 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 19:31:01.690 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 19:31:01.690 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 19:31:01.690 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'

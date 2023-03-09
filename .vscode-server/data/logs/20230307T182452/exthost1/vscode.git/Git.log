@@ -1,0 +1,21 @@
+2023-03-07 18:24:54.462 [info] Log level: Info
+2023-03-07 18:24:54.462 [info] Validating found git in: "git"
+2023-03-07 18:24:54.462 [info] Using git "2.34.1" from "git"
+2023-03-07 18:24:54.462 [info] > git rev-parse --show-toplevel [435ms]
+2023-03-07 18:24:54.462 [info] > git rev-parse --git-dir --git-common-dir [28ms]
+2023-03-07 18:24:54.462 [info] Open repository: /home/jaden
+2023-03-07 18:24:54.471 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-07 18:24:54.477 [info] > git config --get commit.template [10ms]
+2023-03-07 18:24:54.483 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-07 18:24:54.499 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-03-07 18:24:54.503 [info] Open repository: /home/jaden/projects/critterbug-art
+2023-03-07 18:24:54.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2023-03-07 18:24:54.523 [info] > git config --get commit.template [2ms]
+2023-03-07 18:24:54.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-03-07 18:24:54.541 [info] > git status -z -uall [6ms]
+2023-03-07 18:24:54.562 [info] > git config --get commit.template [2ms]
+2023-03-07 18:24:54.711 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-03-07 18:24:54.814 [info] > git status -z -uall [100ms]
+2023-03-07 18:24:55.152 [info] > git check-ignore -v -z --stdin [6ms]
+2023-03-07 18:24:55.153 [info] > git check-ignore -v -z --stdin [2ms]
+2023-03-07 18:24:55.994 [info] > git status -z -uall [1481ms] (cancelled)

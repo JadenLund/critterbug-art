@@ -1,0 +1,38 @@
+# READ ME
+
+## To-Do Lists
+
+### App
+- [ ] Add in sidebar to all pages
+- [ ] Sidebar reads what page you have clicked on
+
+#### Sidebar
+- [ ] Have it be on top of the screen
+- [ ] Add in hovering to show details to the dates
+
+
+![Sidebar](https://vscode-remote%2Bwsl-002bubuntu.vscode-resource.vscode-cdn.net/home/jaden/projects/Images/SidebarImage.png?version%3D1678231537197)
+
+
+### Home
+- [ ] Add images of my art
+> - [ ] Hovering over images shows date when made, link to see better image, and something else
+
+![Home](https://vscode-remote%2Bwsl-002bubuntu.vscode-resource.vscode-cdn.net/home/jaden/projects/Images/HomeImage.png?version%3D1678231550918)
+
+
+### About Me
+- [ ] Add summary about me
+
+![About](https://vscode-remote%2Bwsl-002bubuntu.vscode-resource.vscode-cdn.net/home/jaden/projects/Images/AboutImage.png?version%3D1678231544299)
+
+
+#### Time Line
+- [ ] Add in dates to time line
+- [ ] Add in hovering to show details to the dates
+
+### Contact
+- [ ] Added all socials (instagram, deviantart, art station)
+- [ ] Add email contact form (emailjs)
+
+![Socials/Contact](https://vscode-remote%2Bwsl-002bubuntu.vscode-resource.vscode-cdn.net/home/jaden/projects/Images/Socials.png?version%3D1678233979800)

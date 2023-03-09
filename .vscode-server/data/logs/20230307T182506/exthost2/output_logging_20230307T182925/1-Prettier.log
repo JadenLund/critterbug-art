@@ -1,0 +1,64 @@
+["INFO" - 6:29:26 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:29:26 PM] Extension Version: 9.10.4.
+["INFO" - 6:30:56 PM] Formatting file:///home/jaden/portfoliomvp/package.json
+["INFO" - 6:30:56 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 6:31:09 PM] Formatting file:///home/jaden/portfoliomvp/package.json
+["INFO" - 6:31:09 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 6:31:16 PM] Formatting file:///home/jaden/portfoliomvp/package.json
+["ERROR" - 6:31:16 PM] Error resolving prettier configuration for /home/jaden/portfoliomvp/package.json
+["ERROR" - 6:31:16 PM] JSON Error in /home/jaden/portfoliomvp/package.json: 
+
+  4 |   "version": "0.0.0",
+  5 |   "type": "module",
+> 6 |   {
+    |   ^
+  7 |     "scripts": {
+  8 |       "dev": "vite", // start dev server, aliases: `vite dev`, `vite serve`
+  9 |       "build": "vite build", // build for production
+
+Unexpected token "{" (0x7B) in JSON at position 91 while parsing near "...\"type\": \"module\",\n  {\n    \"scripts\": {\n ..." 
+
+  4 |   "version": "0.0.0",
+  5 |   "type": "module",
+> 6 |   {
+    |   ^
+  7 |     "scripts": {
+  8 |       "dev": "vite", // start dev server, aliases: `vite dev`, `vite serve`
+  9 |       "build": "vite build", // build for production
+
+JSONError: JSON Error in /home/jaden/portfoliomvp/package.json: 
+
+  4 |   "version": "0.0.0",
+  5 |   "type": "module",
+> 6 |   {
+    |   ^
+  7 |     "scripts": {
+  8 |       "dev": "vite", // start dev server, aliases: `vite dev`, `vite serve`
+  9 |       "build": "vite build", // build for production
+
+Unexpected token "{" (0x7B) in JSON at position 91 while parsing near "...\"type\": \"module\",\n  {\n    \"scripts\": {\n ..." 
+
+  4 |   "version": "0.0.0",
+  5 |   "type": "module",
+> 6 |   {
+    |   ^
+  7 |     "scripts": {
+  8 |       "dev": "vite", // start dev server, aliases: `vite dev`, `vite serve`
+  9 |       "build": "vite build", // build for production
+
+	at parseJson (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:2397:27)
+	at Object.loadJson2 [as loadJson] (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8059:24)
+	at Explorer.loadPackageProp (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8182:48)
+	at Explorer.loadFileContent (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8449:36)
+	at Explorer.createCosmiconfigResult (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8453:40)
+	at Explorer.loadSearchPlace (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8438:35)
+	at async Explorer.searchDirectory (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8428:31)
+	at async run (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8413:26)
+	at async Explorer.search (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/third-party.js:8407:24)
+	at async Object.resolveConfigFile (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/node_modules/prettier/index.js:18280:22)
+	at async t.ModuleResolver.getResolvedConfig (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:5340)
+	at async t.default.format (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:13246)
+	at async t.PrettierEditProvider.provideEdits (/home/jaden/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4/dist/extension.js:1:11355)
+	at async x.provideDocumentFormattingEdits (/home/jaden/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:39883)
+["INFO" - 6:49:39 PM] Formatting file:///home/jaden/portfoliomvp/src/components/AnimatedLetters/index.scss
+["INFO" - 6:49:39 PM] Require config set to true and no config present. Skipping file.

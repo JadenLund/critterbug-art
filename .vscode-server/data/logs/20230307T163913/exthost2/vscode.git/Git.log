@@ -1,0 +1,23 @@
+2023-03-07 16:45:30.255 [info] Log level: Info
+2023-03-07 16:45:30.255 [info] Validating found git in: "git"
+2023-03-07 16:45:30.255 [info] Using git "2.34.1" from "git"
+2023-03-07 16:45:30.255 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-07 16:45:30.255 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-03-07 16:45:30.255 [info] Open repository: /home/jaden/Portfolio1
+2023-03-07 16:45:30.255 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-07 16:45:30.255 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-07 16:45:30.255 [info] > git config --get commit.template [20ms]
+2023-03-07 16:45:30.255 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-07 16:45:30.255 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-07 16:45:30.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2023-03-07 16:45:30.255 [info] > git status -z -uall [460ms]
+2023-03-07 16:45:30.280 [info] > git check-ignore -v -z --stdin [67ms]
+2023-03-07 16:45:30.281 [info] > git show --textconv :index.html [10ms]
+2023-03-07 16:45:30.282 [info] > git config --get commit.template [21ms]
+2023-03-07 16:45:30.285 [info] > git ls-files --stage -- /home/jaden/Portfolio1/index.html [9ms]
+2023-03-07 16:45:30.296 [info] > git cat-file -s fd83fa1c85fd1a66e53163e4b009f661cbadc596 [6ms]
+2023-03-07 16:45:30.298 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-03-07 16:45:30.304 [info] > git status -z -uall [2ms]
+2023-03-07 16:45:32.736 [info] > git show --textconv :README.md [3ms]
+2023-03-07 16:45:32.737 [info] > git ls-files --stage -- /home/jaden/Portfolio1/README.md [1ms]
+2023-03-07 16:45:32.741 [info] > git cat-file -s f2e40e18dbafe56b7af70f5cbccbb3a3e808d933 [1ms]

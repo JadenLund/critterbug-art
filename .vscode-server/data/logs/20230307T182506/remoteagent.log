@@ -1,0 +1,12 @@
+2023-03-07 18:25:06.361 [info] 
+
+
+
+
+2023-03-07 18:25:06.378 [info] Extension host agent started.
+2023-03-07 18:25:06.501 [info] [127.0.0.1][7381e7a9][ManagementConnection] New connection established.
+2023-03-07 18:25:06.794 [info] [127.0.0.1][eae300db][ExtensionHostConnection] New connection established.
+2023-03-07 18:25:06.797 [info] [127.0.0.1][eae300db][ExtensionHostConnection] <246> Launched Extension Host Process.
+2023-03-07 18:29:25.149 [info] [127.0.0.1][3581bf5e][ManagementConnection] New connection established.
+2023-03-07 18:29:25.444 [info] [127.0.0.1][83b07ea3][ExtensionHostConnection] New connection established.
+2023-03-07 18:29:25.448 [info] [127.0.0.1][83b07ea3][ExtensionHostConnection] <540> Launched Extension Host Process.
